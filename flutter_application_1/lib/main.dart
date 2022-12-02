@@ -2,10 +2,11 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
 import 'interfaz/home.dart';
- 
+
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
+      name: 'chat-app',
       options: FirebaseOptions(
           apiKey: "AIzaSyA4LrP-niwFDWPVaZQfmbcuQjSdMvoirxY",
           authDomain: "minticchatreto3-f91c2.firebaseapp.com",
