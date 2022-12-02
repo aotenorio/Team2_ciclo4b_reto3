@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117809068186",
+    "project_id": "minticchatreto3-f91c2",
+    "storage_bucket": "minticchatreto3-f91c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117809068186:android:d2578ff4b724adb5084723",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117809068186-vim6cqvo239eu71bi584pjk9iol89hpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwgN3m914kkejtEGHfhqb0HKkDnt3P0mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117809068186-vim6cqvo239eu71bi584pjk9iol89hpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
